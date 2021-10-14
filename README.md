@@ -8,7 +8,7 @@ Trying out different lane detection techniques
 - [ ]  TUsimple
 - [ ]  Berkeley Deep Drive 
 
-## Models Planning to Train
+## Models Planned to Train
 
 - [ ]  SCNN  
 - [ ]  FoloNet
