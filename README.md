@@ -10,7 +10,7 @@ Trying out different lane detection techniques
 
 ## Models Planned to Train
 
-- [ ]  SCNN  
+- [ ]  SCNN https://arxiv.org/abs/1712.06080
 - [ ]  FoloNet
 - [ ]  LANENet
 - [ ]  CondLaneNet
